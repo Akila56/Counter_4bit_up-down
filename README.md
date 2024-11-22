@@ -98,6 +98,7 @@ Click the cds.lib file and save the file by clicking on Save option
 	Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.
 
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+![image](https://github.com/user-attachments/assets/96583ddd-64c2-42b3-9803-4b65ef52bee2)
 
 ## Fig 6: Nclaunch Window
 
@@ -153,6 +154,7 @@ It contains statements that map logical library names to their physical director
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
 
 ## Fig 8: Elaboration Launch Option
+![image](https://github.com/user-attachments/assets/e5f36165-c402-4acd-8f8d-e4dda56def97)
 
 ### Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
@@ -165,10 +167,12 @@ It contains statements that map logical library names to their physical director
 	Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
+![image](https://github.com/user-attachments/assets/2c1c5710-0abb-47fa-98a0-6b095cdafcf6)
 
 ## Fig 10: Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/f1a80e41-551b-4e8d-9d66-88b2957f0839)
 
-## Fig 11: Simulation Waveform Window
+
 
 ### Result
 
